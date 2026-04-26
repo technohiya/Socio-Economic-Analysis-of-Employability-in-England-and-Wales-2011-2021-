@@ -33,3 +33,15 @@ Insight: Demonstrates that while Level 4 qualifications grew across the board (r
 Description: Detailed views of the statistical distributions and the Bayesian logit-linear regression model.
 
 Insight: These views support the end-to-end application of Tamara Munzner's Task Taxonomy, moving from raw data to predictive insights.
+
+
+
+## Technical Framework
+
+> Visualization: Tableau (Packaged Workbook .twbx)
+
+> Methodology: Tamara Munzner’s Task Taxonomy (Data/Task Abstraction and Idiom design).
+
+> Advanced Analytics: PCA, t-SNE, and Bayesian Logit-Linear Regression.
+
+> Data Sources: Office for National Statistics (ONS) / Nomis UK Census data (2011 & 2021).
